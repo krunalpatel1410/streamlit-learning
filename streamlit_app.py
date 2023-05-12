@@ -1,8 +1,8 @@
 import streamlit
 
 streamlit.title('my parents new health dinner')
-stramlit.header('Break fast Menu')
 
-stramlit.text('Omega 3 and Oats')
-stramlit.text('Poha')
-stramlit.text('Milk with toast')
+streamlit.header('Break fast Menu')
+streamlit.text('Omega 3 and Oats')
+streamlit.text('Poha')
+streamlit.text('Milk with toast')
