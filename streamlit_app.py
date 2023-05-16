@@ -59,7 +59,7 @@ if streamlit.button('Add a Fruit to the list'):
     
 streamlit.header("The fruit load list contains:")
 
-streamlit.dataframe(my_data_rows)
+# streamlit.dataframe(my_data_rows)
 
 
 
